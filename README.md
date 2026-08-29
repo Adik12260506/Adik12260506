@@ -211,18 +211,6 @@ AI/ML concept for **power-grid outage prediction and infrastructure monitoring**
 
 ---
 
-## 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adik12260506&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adik12260506&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
 ## 📚 Learning Roadmap
 
 ### 🔹 Now
